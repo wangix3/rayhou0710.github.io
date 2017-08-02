@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 I am currently a Ph.D. candiate in the Department of Civil and Environmental Enginnering at the University of Michigan; meanwhile, I am also pursuing a M.S.E degree in Computer Science & Engineering. I am advised by Professor [Jerome P. Lynch](http://www-personal.umich.edu/~jerlynch/proflynch.html) and am a member of the [Laboratory for Intelligent Systems and Technologies (LIST)](http://www-personal.umich.edu/~jerlynch/index.html) at the University of Michigan. 
+
 My research interests lie at the intersection of traditional infrastructures (e.g. highway bridges) and cutting-edge electrical & computer engineering technologies (e.g. computer vision). One of my recent reseach projects is to build a cyber-physical system (CPS) integrating wireless structural health monitoring (SHM) systems deployed in highway bridges with intelliegnt transportation systems (ITS) and cloud computing platforms aiming to make the infrastructure & transportation systems smater and robuster.
+
 I will intern at the Materials Research Department at [Toyota Research Institute (TRI)](http://www.tri.global/), Ann Arbor, MI starting from September, 2017 on a material informatics project. Deep learning and text mining techniques will be applied to discover potential meterails for new types of Lithium-ion batteries.   
 
 Short-term Goals
