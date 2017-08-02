@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Rui (Ray) Hou"
 title_separator          : "-"
 name                     : &name "Rui (Ray) Hou"
 description              : &description "personal description"
@@ -80,22 +80,22 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Rui Hou"
   location         : "Ann Arbor, MI"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  employer         : 
+  googlescholar    : "https://scholar.google.com/citations?user=PKHKqX0AAAAJ&hl=en&authuser=1"
+  email            : "rayhou@umich.edu"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/"
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/rayhou0710"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/raymond_hr/"
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
