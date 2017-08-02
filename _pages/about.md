@@ -8,11 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candiate in the Department of Civil and Environmental Enginnering at the University of Michigan; meanwhile, I am also pursuing a M.S.E degree in Computer Science & Engineering. I am advised by Professor [Jerome P. Lynch](http://www-personal.umich.edu/~jerlynch/proflynch.html) and am a member of the [Laboratory for Intelligent Systems and Technologies (LIST)](http://www-personal.umich.edu/~jerlynch/index.html) at the University of Michigan. My research interests lie at the intersection of traditional infrastructures (e.g. highway bridges) and cutting-edge electrical & computer engineering technologies (e.g. computer vision). One of my recent reseach projects is to build a cyber-physical system (CPS) integrating wireless structural health monitoring (SHM) systems deployed in highway bridges with intelliegnt transportation systems (ITS) and cloud computing platforms aiming to make the infrastructure & transportation systems smater and robuster. 
+I am currently a Ph.D. candiate in the Department of Civil and Environmental Enginnering at the University of Michigan; meanwhile, I am also pursuing a M.S.E degree in Computer Science & Engineering. I am advised by Professor [Jerome P. Lynch](http://www-personal.umich.edu/~jerlynch/proflynch.html) and am a member of the [Laboratory for Intelligent Systems and Technologies (LIST)](http://www-personal.umich.edu/~jerlynch/index.html) at the University of Michigan. 
+My research interests lie at the intersection of traditional infrastructures (e.g. highway bridges) and cutting-edge electrical & computer engineering technologies (e.g. computer vision). One of my recent reseach projects is to build a cyber-physical system (CPS) integrating wireless structural health monitoring (SHM) systems deployed in highway bridges with intelliegnt transportation systems (ITS) and cloud computing platforms aiming to make the infrastructure & transportation systems smater and robuster.
+I will intern at the Materials Research Department at Toyota Research Institute (TRI), Ann Arbor, MI starting from September, 2017 on a material informatics project. Deep learning and text mining techniques will be applied to discover potential meterails for new types of Lithium-ion batteries.   
 
-Short-term 
-<!-- ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Short-term Goals
+======
+I am working 
+
+
+<!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Create content & metadata
 For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
@@ -27,3 +32,4 @@ Many people use a git client to create files on their local computer and then pu
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png) -->
+ -->
