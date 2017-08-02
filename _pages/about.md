@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ray"
+title: "Myself"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website.
+I am a Ph.D. candiate in the Department of Civil and Environmental Enginnering at the University of Michigan.
 
 A data-driven personal website
 ======
