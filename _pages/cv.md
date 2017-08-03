@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Candidate, Civil Engineering (Intelligent Systems Track), 2016-Present
+* Ph.D. Candidate, Civil Engineering (Intelligent Systems Track), 2016 - Present
   * University of University, Ann Arbor, MI
   * Advisor: Prof. Jerome P. Lynch
-* M.S., Computer Science & Engineering, 2017-Present
+* M.S., Computer Science & Engineering, 2017 - Present
   * University of University, Ann Arbor, MI
-* M.S., Civil Engineering (Intelligent Systems Track), 2014-2016
+* M.S., Civil Engineering (Intelligent Systems Track), 2014 - 2016
   * University of Michigan, Ann Arbor, MI
-* B.S., Civil Engineering, 2010-2014
+* B.S., Civil Engineering, 2010 - 2014
   * Tongji University, Shanghai, China
-
-
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Student Research Assistant, Jan.2015 - Present
+  * Laboratory for Intelligent Systems and Technologies at the University of Michigan, Ann Arbor, MI
+  * Supervisor: Prof. Jerome P. Lynch
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Material Informatics Intern, Sep.2017 - Dec.2017
+  * Toyota Research Institute, Ann Arbor, MI
+  * Supervisor: Dr. Debasish Banerjee & Dr. Chen Ling 
   
+* Building Information Modeling Intern, Feb.2014 - Jun.2014
+  * Shanghai Construction Group, Shanghai, China
+  * Supervisor: Yunchao Liu
+
 Skills
 ======
 * Skill 1
