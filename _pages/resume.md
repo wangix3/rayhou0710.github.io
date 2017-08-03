@@ -13,16 +13,16 @@ EDUCATION
 ======
 * Ph.D. Candidate, Civil Engineering (Intelligent Systems Track), 2016 - Present
   * University of University, Ann Arbor, MI
-  * Advisor: Prof. Jerome P. Lynch
+  <!-- * Advisor: Prof. Jerome P. Lynch -->
 * M.S., Computer Science & Engineering, 2017 - Present
-  * GPA: 4.0/4.0
   * University of University, Ann Arbor, MI
-* M.S., Civil Engineering (Intelligent Systems Track), 2014 - 2016
   * GPA: 4.0/4.0
+* M.S., Civil Engineering (Intelligent Systems Track), 2014 - 2016
   * University of Michigan, Ann Arbor, MI
+  * GPA: 4.0/4.0
 * B.S., Civil Engineering, 2010 - 2014
-  * GPA: 91/100
   * Tongji University, Shanghai, China
+  * GPA: 91/100
 
 EMPLOYMENT EXPERIENCE
 ======

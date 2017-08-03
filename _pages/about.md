@@ -20,7 +20,7 @@ Goals for Near Future
 ======
 While doubt about the pure value behind the Ph.D. degree everyday, I am trying hard to graduate in less than two years. 
 
-Seeking for an internship opportunity related to software engineering, data analysis or machine learning for Summer 2018. I am a technology fan so would like to work on interesting product development for the first a few year of my career.
+Seeking for an internship opportunity related to software engineering, data analysis or machine learning for Summer 2018. I am a technology fan so would like to work on interesting product development for the first a few years of my career.
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
