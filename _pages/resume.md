@@ -24,6 +24,7 @@ EDUCATION
   * Tongji University, Shanghai, China
   * GPA: 91/100
 
+
 EMPLOYMENT EXPERIENCE
 ======
 * Graduate Student Research Assistant, Jan.2015 - Present
@@ -38,6 +39,10 @@ EMPLOYMENT EXPERIENCE
   * Shanghai Construction Group, Shanghai, China
   * Supervisor: Yunchao Liu
 
+* Field Engineer Intern, Jul.2013-Aug.2013
+  * Tongji Project Management & Consulting Co., Ltd., Shanghai, China,            
+
+
 SKILLS
 ======
 * Programming
@@ -49,13 +54,36 @@ SKILLS
 * Design & Presentation
   * Adobe Creative Suite (Photoshop, Illustrator), Microsoft Office Suite
   
+
 SERVICE & LEADERSHIP
 ======
-* Currently signed in to 43 different slack teams
+* Vice President of the Volunteer Service Department at Tongji University, Oct.2010 - Jun.2012  
+* Leader of the Tongji Education Aid Activity (Raised over 50,000CNY to subsidize 204 pupils), Sep.2011 - Nov.2011                                                                                                                                        
+* Volunteer Coordinator of the 14th FINA World Championships Shanghai 2011 Organizing Committee, Jul.2011                                                                                            
+
 
 SELECTED COURSEWORK
 ======
+* EECS 586: Algorithms
+* EECS 583: Advanced Compiler
+* EECS 560: Linear System Theory
+* EECS 551: Matrix Method for Signal Processing
+* EECS 545: Machine Learning
+* EECS 542: Advanced Topics in Computer Vision
+* EECS 501: Probability and Random Process
+* EECS 485: Web Databases & Information Systems
+* EECS 484: Database Management Systems
+* EECS 461: Embedded Control Systems
+* EECS 460: Control System Analysis and Design 
+
 
 HONORS & AWARDS
 ======
-
+* Rackham Conference Travel Grant, University of Michigan 2017
+* William Colon Lemon Scholarship, University of Michigan 2016
+* Graduate Student Support Fellowship, University of Michigan 2016
+* Outstanding Graduate Honor, Tongji University 2014
+* Outstanding Student in the Department of Civil Engineering, Tongji University (10/2000) 2013
+* CanforWooden Structure Scholarship (Sponsored by Canfor Corporation), Tongji University 2013
+* First Prize in the 2013 Shanghai College Student Computer Application Competition 2013
+* Intertek Scholarship (2/520, Sponsored by Intertek Group PLC), Tongji University 2012
