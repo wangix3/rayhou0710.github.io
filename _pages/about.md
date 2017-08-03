@@ -12,7 +12,7 @@ I am currently a Ph.D. candiate in the Department of Civil and Environmental Eng
 
 My research interests lie at the intersection of traditional infrastructures (e.g. highway bridges) and cutting-edge electrical & computer engineering technologies (e.g. computer vision). One of my recent reseach projects is to build a cyber-physical system (CPS) integrating wireless structural health monitoring (SHM) systems deployed in highway bridges with intelliegnt transportation systems (ITS) and cloud computing platforms aiming to make the infrastructure & transportation systems smarter and robuster.
 
-I will intern at the Materials Research Department at [Toyota Research Institute (TRI)](http://www.tri.global/), Ann Arbor, MI starting from September, 2017 to work on a material informatics project. Deep learning and text mining techniques will be applied to discover potential meterails for new types of Lithium-ion batteries.   
+I will intern at the Materials Research Department at [Toyota Research Institute (TRI)](http://www.tri.global/), Ann Arbor, MI starting from September, 2017 to work on a material informatics project. Deep learning and text mining techniques will be applied to discover potential materials for new types of Lithium-ion batteries.   
 
 Goals for Near Future
 ======
