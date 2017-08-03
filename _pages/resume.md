@@ -39,7 +39,7 @@ EMPLOYMENT EXPERIENCE
   * Shanghai Construction Group, Shanghai, China
   * Supervisor: Yunchao Liu
 
-* Field Engineer Intern, Jul.2013-Aug.2013
+* Field Engineer Intern, Jul.2013 - Aug.2013
   * Tongji Project Management & Consulting Co., Ltd., Shanghai, China,            
 
 
