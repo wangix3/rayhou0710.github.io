@@ -16,7 +16,7 @@ I will intern at the Materials Research Department at [Toyota Research Institute
 
 Goals for Near Future
 ======
-While doubt about the pure value behind the Ph.D. degree everyday, I am trying hard to obtain the doctral degree in less than two years. 
+While doubt about the pure value behind the Ph.D. degree everyday, I am trying hard to graduate in less than two years. 
 
 Seeking for an internship opportunity related to software engineering, data analysis or machine learning for Summer 2018. 
 
