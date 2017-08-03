@@ -9,19 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
 * Ph.D. Candidate, Civil Engineering (Intelligent Systems Track), 2016 - Present
   * University of University, Ann Arbor, MI
   * Advisor: Prof. Jerome P. Lynch
 * M.S., Computer Science & Engineering, 2017 - Present
+  * GPA: 4.0/4.0
   * University of University, Ann Arbor, MI
 * M.S., Civil Engineering (Intelligent Systems Track), 2014 - 2016
+  * GPA: 4.0/4.0
   * University of Michigan, Ann Arbor, MI
 * B.S., Civil Engineering, 2010 - 2014
+  * GPA: 91/100
   * Tongji University, Shanghai, China
 
-Work experience
+EMPLOYMENT EXPERIENCE
 ======
 * Graduate Student Research Assistant, Jan.2015 - Present
   * Laboratory for Intelligent Systems and Technologies at the University of Michigan, Ann Arbor, MI
@@ -35,33 +38,24 @@ Work experience
   * Shanghai Construction Group, Shanghai, China
   * Supervisor: Yunchao Liu
 
-Skills
+SKILLS
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Programming
+  * C, C++, Python, MATLAB, Java, Javascript, SQL, NoSQL(MongoDB, Cassandra), Linux
+* Data Analysis
+  * Data mining, Text mining, Machine Learning, Signal Processing, Sensor Fusion, Embedded Systems
+* Deep Learning Framework
+  * Tensorflow, Caffe, Torch
+* Design & Presentation
+  * Adobe Creative Suite (Photoshop, Illustrator), Microsoft Office Suite
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+SERVICE & LEADERSHIP
 ======
 * Currently signed in to 43 different slack teams
+
+SELECTED COURSEWORK
+======
+
+HONORS & AWARDS
+======
+
