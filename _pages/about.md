@@ -12,12 +12,13 @@ I am currently a Ph.D. candiate in the Department of Civil and Environmental Eng
 
 My research interests lie at the intersection of traditional infrastructures (e.g. highway bridges) and cutting-edge electrical & computer engineering technologies (e.g. computer vision). One of my recent reseach projects is to build a cyber-physical system (CPS) integrating wireless structural health monitoring (SHM) systems deployed in highway bridges with intelliegnt transportation systems (ITS) and cloud computing platforms aiming to make the infrastructure & transportation systems smarter and robuster.
 
-I will intern at the Materials Research Department at [Toyota Research Institute (TRI)](http://www.tri.global/), Ann Arbor, MI starting from September, 2017 on a material informatics project. Deep learning and text mining techniques will be applied to discover potential meterails for new types of Lithium-ion batteries.   
+I will intern at the Materials Research Department at [Toyota Research Institute (TRI)](http://www.tri.global/), Ann Arbor, MI starting from September, 2017 to work on a material informatics project. Deep learning and text mining techniques will be applied to discover potential meterails for new types of Lithium-ion batteries.   
 
-Short-term Goals
+Goals for Near Future
 ======
-I am working 
+While doubt about the pure value behind the Ph.D. degree everyday, I am trying hard to obtain the doctral degree in less than two years. 
 
+Seeking for an internship opportunity related to software engineering, data analysis or machine learning for Summer 2018. 
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
