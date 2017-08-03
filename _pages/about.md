@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+About Me
+======
 I am currently a Ph.D. candiate in the Department of Civil and Environmental Enginnering at the University of Michigan; meanwhile, I am also pursuing a M.S.E degree in Computer Science & Engineering. I am advised by Professor [Jerome P. Lynch](http://www-personal.umich.edu/~jerlynch/proflynch.html) and am a graduate student research assistant in the [Laboratory for Intelligent Systems and Technologies (LIST)](http://www-personal.umich.edu/~jerlynch/index.html) at the University of Michigan. 
 
 My research interests lie at the intersection of traditional infrastructures (e.g. highway bridges) and cutting-edge electrical & computer engineering technologies (e.g. computer vision). One of my recent research projects is to build a cyber-physical system (CPS) integrating wireless structural health monitoring (SHM) systems deployed in highway bridges with intelliegnt transportation systems (ITS) and cloud computing platforms aiming to make the infrastructure & transportation systems smarter and robuster.
