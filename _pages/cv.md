@@ -11,9 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D. Candidate, Civil Engineering (Intelligent Systems Track), 2016-Present
+  * University of University, Ann Arbor, MI
+  * Advisor: Prof. Jerome P. Lynch
+* M.S., Computer Science & Engineering, 2017-Present
+  * University of University, Ann Arbor, MI
+* M.S., Civil Engineering (Intelligent Systems Track), 2014-2016
+  * University of Michigan, Ann Arbor, MI
+* B.S., Civil Engineering, 2010-2014
+  * Tongji University, Shanghai, China
+
+
 
 Work experience
 ======
