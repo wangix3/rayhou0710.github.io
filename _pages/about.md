@@ -16,10 +16,10 @@ My research interests lie at the intersection of traditional infrastructures (e.
 
 I also intern at [Toyota Research Institute (TRI)](http://www.tri.global/), Ann Arbor, MI this semester (from Sep. 2017 to Dec. 2017). Working in the Materials Research Department, my responsibilty is to fulfill the requirement of materials informatics research in Toyota Research Institute of North America. Machine learning techniques are applied to analyze problems in materials science. Typical duties include: text mining data from literatures and patents; clarify the connection between different objects; statistically analyze the property-structure-process relation, etc. 
 
-Goals for Near Future
+Goals for the Near Future
 ======
-1) Seeking for an internship opportunity related to software engineering or data analysis (machine learning) for Summer 2018.
-2) Obtain Ph.D. degree in two years and find a industry job related to tech product development which is not just fancy but can truly influence people's daily life. 
+* Seeking for an internship opportunity related to software engineering or data analysis (machine learning) for Summer 2018.
+* Obtain Ph.D. degree in two years and find a industry job related to tech product development which is not just fancy but can truly influence people's daily life. 
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
