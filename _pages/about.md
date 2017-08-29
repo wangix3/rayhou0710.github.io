@@ -14,13 +14,12 @@ I am currently a Ph.D. candiate in the Department of Civil and Environmental Eng
 
 My research interests lie at the intersection of traditional infrastructures (e.g. highway bridges) and cutting-edge electrical & computer engineering technologies (e.g. computer vision). One of my recent research projects is to build a cyber-physical system (CPS) integrating wireless structural health monitoring (SHM) systems deployed in highway bridges with intelliegnt transportation systems (ITS) and cloud computing platforms aiming to make the infrastructure & transportation systems smarter and robuster.
 
-I will intern at the Materials Research Department at [Toyota Research Institute (TRI)](http://www.tri.global/), Ann Arbor, MI starting from September, 2017 to work on a material informatics project. Deep learning and text mining techniques will be applied to discover potential materials for new types of Lithium-ion batteries.   
+I also intern at [Toyota Research Institute (TRI)](http://www.tri.global/), Ann Arbor, MI this semester (from Sep. 2017 to Dec. 2017). Working in the Materials Research Department, my responsibilty is to fulfill the requirement of materials informatics research in Toyota Research Institute of North America. Machine learning techniques are applied to analyze problems in materials science. Typical duties include: text mining data from literatures and patents; clarify the connection between different objects; statistically analyze the property-structure-process relation, etc. 
 
 Goals for Near Future
 ======
-While doubt about the pure value behind the Ph.D. degree everyday, I am trying hard to graduate in less than two years. 
-
-Seeking for an internship opportunity related to software engineering, data analysis or machine learning for Summer 2018. I am a technology fan so would like to work on interesting product development for the first a few years of my career.
+1) Seeking for an internship opportunity related to software engineering or data analysis (machine learning) for Summer 2018.
+2) Obtain Ph.D. degree in two years and find a industry job related to tech product development which is not just fancy but can truly influence people's daily life. 
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
