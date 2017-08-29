@@ -16,6 +16,8 @@ My research interests lie at the intersection of traditional infrastructures (e.
 
 I also intern at [Toyota Research Institute (TRI)](http://www.tri.global/), Ann Arbor, MI this semester (from Sep. 2017 to Dec. 2017). Working in the Materials Research Department, my responsibilty is to fulfill the requirement of materials informatics research in Toyota Research Institute of North America. Machine learning techniques are applied to analyze problems in materials science. Typical duties include: text mining data from literatures and patents; clarify the connection between different objects; statistically analyze the property-structure-process relation, etc. 
 
+A side quest of mine for this semester is to complete the [deep learning courses](https://www.deeplearning.ai/) offered by Andrew Ng on Coursera. Check it out if you are also interested in it. Welcome to discuss!
+
 Goals for the Near Future
 ======
 * Seeking for an internship opportunity related to software engineering or data analysis (machine learning) for Summer 2018.
