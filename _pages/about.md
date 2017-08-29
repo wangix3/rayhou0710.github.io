@@ -19,7 +19,7 @@ I also intern at [Toyota Research Institute (TRI)](http://www.tri.global/), Ann 
 Goals for the Near Future
 ======
 * Seeking for an internship opportunity related to software engineering or data analysis (machine learning) for Summer 2018.
-* Obtain Ph.D. degree in two years and find a industry job related to tech product development which is not just fancy but can truly influence people's daily life. 
+* Obtain my Ph.D. degree in two years and find an industry job related to tech product development that is not just fancy but can truly influence people's daily life. 
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
