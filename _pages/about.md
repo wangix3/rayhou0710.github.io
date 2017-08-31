@@ -20,14 +20,14 @@ A side quest of mine for this semester is to complete the [deep learning courses
 
 ## Goals for the Near Future
 
-1.Seeking for an internship opportunity related to software engineering or data analysis (machine learning) for Summer 2018.
-2.Obtain my Ph.D. degree in two years and find an industry job related to tech product development that is not just fancy but can truly influence people's daily life. 
+* Seeking for an internship opportunity related to software engineering or data analysis (machine learning) for Summer 2018.
+* Obtain my Ph.D. degree in two years and find an industry job related to tech product development that is not just fancy but can truly influence people's daily life. 
 
 ## Lifetime Goals
 
-1.Run a fusion cuisine restaurant
-2.Film a movide
-3.Own a television channel or network
+* Run a fusion cuisine restaurant
+* Film a movide
+* Own a television channel or network
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
