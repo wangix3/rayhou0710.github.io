@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-======
+##About Me
+
 I am currently a Ph.D. candiate in the Department of Civil and Environmental Enginnering at the University of Michigan; meanwhile, I am also pursuing a M.S.E degree in Computer Science & Engineering. I am advised by Professor [Jerome P. Lynch](http://www-personal.umich.edu/~jerlynch/proflynch.html) and am a graduate student research assistant in the [Laboratory for Intelligent Systems and Technologies (LIST)](http://www-personal.umich.edu/~jerlynch/index.html) at the University of Michigan. 
 
 My research interests lie at the intersection of traditional infrastructures (e.g. highway bridges) and cutting-edge electrical & computer engineering technologies (e.g. computer vision). One of my recent research projects is to build a cyber-physical system (CPS) integrating wireless structural health monitoring (SHM) systems deployed in highway bridges with intelliegnt transportation systems (ITS) and cloud computing platforms aiming to make the infrastructure & transportation systems smarter and robuster.
@@ -18,10 +18,15 @@ I also intern at [Toyota Research Institute (TRI)](http://www.tri.global/), Ann 
 
 A side quest of mine for this semester is to complete the [deep learning courses](https://www.deeplearning.ai/) offered by Andrew Ng on Coursera. Check it out if you are interested. Welcome to discuss!
 
-Goals for the Near Future
-======
-* Seeking for an internship opportunity related to software engineering or data analysis (machine learning) for Summer 2018.
-* Obtain my Ph.D. degree in two years and find an industry job related to tech product development that is not just fancy but can truly influence people's daily life. 
+##Goals for the Near Future
+
+1.Seeking for an internship opportunity related to software engineering or data analysis (machine learning) for Summer 2018.
+2.Obtain my Ph.D. degree in two years and find an industry job related to tech product development that is not just fancy but can truly influence people's daily life. 
+
+##Lifetime Goals
+1.Run a fusion cuisine restaurant
+2.Film a movide
+3.Own a television channel or network
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
