@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-##About Me
+## About Me
 
 I am currently a Ph.D. candiate in the Department of Civil and Environmental Enginnering at the University of Michigan; meanwhile, I am also pursuing a M.S.E degree in Computer Science & Engineering. I am advised by Professor [Jerome P. Lynch](http://www-personal.umich.edu/~jerlynch/proflynch.html) and am a graduate student research assistant in the [Laboratory for Intelligent Systems and Technologies (LIST)](http://www-personal.umich.edu/~jerlynch/index.html) at the University of Michigan. 
 
@@ -18,12 +18,13 @@ I also intern at [Toyota Research Institute (TRI)](http://www.tri.global/), Ann 
 
 A side quest of mine for this semester is to complete the [deep learning courses](https://www.deeplearning.ai/) offered by Andrew Ng on Coursera. Check it out if you are interested. Welcome to discuss!
 
-##Goals for the Near Future
+## Goals for the Near Future
 
 1.Seeking for an internship opportunity related to software engineering or data analysis (machine learning) for Summer 2018.
 2.Obtain my Ph.D. degree in two years and find an industry job related to tech product development that is not just fancy but can truly influence people's daily life. 
 
-##Lifetime Goals
+## Lifetime Goals
+
 1.Run a fusion cuisine restaurant
 2.Film a movide
 3.Own a television channel or network
