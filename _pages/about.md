@@ -14,9 +14,11 @@ I am currently a Ph.D. candiate in the Department of Civil and Environmental Eng
 
 My research interests lie at the intersection of traditional infrastructures (e.g. highway bridges) and cutting-edge electrical & computer engineering technologies (e.g. computer vision). One of my recent research projects is to build a cyber-physical system (CPS) integrating wireless structural health monitoring (SHM) systems deployed in highway bridges with intelliegnt transportation systems (ITS) and cloud computing platforms aiming to make the infrastructure & transportation systems smarter and robuster.
 
-I also intern at [Toyota Research Institute (TRI)](http://www.tri.global/), Ann Arbor, MI this semester (from Sep. 2017 to Dec. 2017). Working in the Materials Research Department, my responsibilty is to fulfill the requirement of materials informatics research in Toyota Research Institute of North America. Machine learning techniques are applied to analyze problems in materials science. Typical duties include: text mining data from literatures and patents; clarify the connection between different objects; statistically analyze the property-structure-process relation, etc. 
+I currently intern at [Toyota Research Institute (TRI)](http://www.tri.global/), Ann Arbor, MI this semester (from Sep. 2017 to Dec. 2017). Working in the Materials Research Department, my responsibilty is to fulfill the requirement of materials informatics research in the group. I am ultilizing machine learning techniques, especially text mining and natural language processing techniques, for information extraction in the domain of chemical & material science. The goal is to convert unstructured data from sources such as electronic literature and patents to structured knowledge base such as ontology for further material informatics analysis.
 
-A side quest of mine for this semester is to complete the [deep learning courses](https://www.deeplearning.ai/) offered by Andrew Ng on Coursera. Check it out if you are interested. Welcome to discuss!
+<!-- Machine learning techniques are applied to analyze problems in materials science. Typical duties include: text mining data from literatures and patents; clarify the connection between different objects; statistically analyze the property-structure-process relation, etc.  -->
+
+<!-- A side quest of mine for this semester is to complete the [deep learning courses](https://www.deeplearning.ai/) offered by Andrew Ng on Coursera. Check it out if you are interested. Welcome to discuss! -->
 
 ## Goals for the Near Future
 
@@ -26,7 +28,7 @@ A side quest of mine for this semester is to complete the [deep learning courses
 ## Lifetime Goals
 
 * Run a fusion cuisine restaurant
-* Film a movide
+* Film a movie
 * Own a television channel or network
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
