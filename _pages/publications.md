@@ -17,7 +17,7 @@ S. Jeong, <u>R. Hou</u>, J. P. Lynch, H. Sohn and K. H. Law, "A Scalable Cloud-b
 
 S. Jeong, <u>R. Hou</u>, J. P. Lynch, H. Sohn and K. H. Law, "A big data management and analytics framework for bridge monitoring", International Workshop on Structural Health Monitoring 2017 (IWSHM 2017). Stanford University, Stanford, CA, USA, September 12-14, 2017.
 
-J. P. Lynch, M. Ettouney, S. Alampalli, A. Zimmerman, K. A. Flanigan,<u>R. Hou</u>, and N. Johnson. "Health Assessment and Risk Mitigation of Railroad Networks Exposed to Natural Hazards using Commercial Remote Sensing and Spatial Information Technologies." (2017).
+J. P. Lynch, M. Ettouney, S. Alampalli, A. Zimmerman, K. A. Flanigan, <u>R. Hou</u> and N. Johnson. "Health Assessment and Risk Mitigation of Railroad Networks Exposed to Natural Hazards using Commercial Remote Sensing and Spatial Information Technologies." (2017).
 
 S. Jeong, <u>R. Hou</u>, J. P. Lynch, H. Sohn and K. H. Law, "An information modeling framework for bridge monitoring." Advances in Engineering Software, 2017.
 
@@ -31,6 +31,6 @@ S. Jeong, <u>R. Hou</u>, J. P. Lynch, H. Sohn and K. H. Law, "Cloud-based cyber 
 
 S. Jeong, Y. Zhang, <u>R. Hou</u>, J. P. Lynch, H. Sohn and K. H. Law, "A Cloud based Information Repository for Bridge Monitoring Applications", Proceedings of the SPIE Smart Structures/NDE Conference. Las Vegas, NV, USA, March 20-24, 2016.
 
-<u>R. Hou .</u>, Y. Zhang, S. O’Connor, Y. Hong, and J. P. Lynch, "Monitoring and Identification of Vehicle-Bridge Interaction using Mobile Truck-based Wireless Sensors." In Proceedings of 11th International Workshop on Advanced Smart Materials and Smart Structures Technology, pp. 1-2. 2015.
+<u>R. Hou</u>, Y. Zhang, S. O’Connor, Y. Hong, and J. P. Lynch, "Monitoring and Identification of Vehicle-Bridge Interaction using Mobile Truck-based Wireless Sensors." In Proceedings of 11th International Workshop on Advanced Smart Materials and Smart Structures Technology, pp. 1-2. 2015.
 
 
