@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-EDUCATION
+Education
 ------
 * Ph.D. Candidate, Civil Engineering (Intelligent Systems Track), 2015 - Present
   * University of Michigan, Ann Arbor, MI
@@ -25,7 +25,7 @@ EDUCATION
   * GPA: 91/100
 
 
-EMPLOYMENT EXPERIENCE
+Employment Experience
 ------
 * Graduate Student Research Assistant, Jan.2015 - Present
   * Laboratory for Intelligent Systems and Technologies, University of Michigan, Ann Arbor, MI
@@ -43,7 +43,7 @@ EMPLOYMENT EXPERIENCE
   * Shanghai Tongji Project Management & Consulting Co., Ltd., Shanghai, China,            
 
 
-SKILLS
+Skills
 ------
 * Programming
   * Python, C++, MATLAB, C, Java, Javascript, SQL, NoSQL(MongoDB, Cassandra), Linux
@@ -55,7 +55,7 @@ SKILLS
   * Adobe Creative Suite (Photoshop, Illustrator), Microsoft Office Suite
                                                                                      
 
-SELECTED COURSEWORK
+Selected Coursework
 ------
 * EECS 586: Algorithms
 * EECS 583: Advanced Compiler
@@ -70,7 +70,7 @@ SELECTED COURSEWORK
 * EECS 460: Control System Analysis and Design 
 
 
-HONORS & AWARDS
+Honors & Awards
 ------
 * Rackham Conference Travel Grant, University of Michigan 2017
 * William Colon Lemon Scholarship, University of Michigan 2016
@@ -82,7 +82,7 @@ HONORS & AWARDS
 * Intertek Scholarship (2/520, Sponsored by Intertek Group PLC), Tongji University 2012
 
 
-SERVICE & LEADERSHIP
+Service & Leadership
 ------
 * Vice President of the Volunteer Service Department at Tongji University, Oct.2010 - Jun.2012  
 * Leader of the Tongji Education Aid Activity (Raised over 50,000CNY to subsidize 204 pupils), Sep.2011 - Nov.2011                           
