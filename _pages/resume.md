@@ -11,13 +11,13 @@ redirect_from:
 
 EDUCATION
 ======
-* Ph.D. Candidate, Civil Engineering (Intelligent Systems Track), 2016 - Present
+* Ph.D. Candidate, Civil Engineering (Intelligent Systems Track), 2015 - Present
   * University of University, Ann Arbor, MI
   <!-- * Advisor: Prof. Jerome P. Lynch -->
-* M.S., Computer Science & Engineering, 2017 - Present
+* M.S.E, Computer Science & Engineering, 2016 - Present
   * University of University, Ann Arbor, MI
   * GPA: 4.0/4.0
-* M.S., Civil Engineering (Intelligent Systems Track), 2014 - 2016
+* M.S.E, Civil Engineering (Intelligent Systems Track), 2014 - 2016
   * University of Michigan, Ann Arbor, MI
   * GPA: 4.0/4.0
 * B.S., Civil Engineering, 2010 - 2014
@@ -37,18 +37,18 @@ EMPLOYMENT EXPERIENCE
   
 * Building Information Modeling Intern, Feb.2014 - Jun.2014
   * Shanghai Construction Group, Shanghai, China
-  * Supervisor: Yunchao Liu
+  <!-- * Supervisor: Yunchao Liu -->
 
 * Field Engineer Intern, Jul.2013 - Aug.2013
-  * Tongji Project Management & Consulting Co., Ltd., Shanghai, China,            
+  * Shanghai Tongji Project Management & Consulting Co., Ltd., Shanghai, China,            
 
 
 SKILLS
 ======
 * Programming
-  * C, C++, Python, MATLAB, Java, Javascript, SQL, NoSQL(MongoDB, Cassandra), Linux
+  * Python, C++, MATLAB, C, Java, Javascript, SQL, NoSQL(MongoDB, Cassandra), Linux
 * Data Analysis
-  * Data mining, Text mining, Machine Learning, Signal Processing, Sensor Fusion, Embedded Systems
+  * Data Mining, Machine Learning, Computer Vision, Natural Language Processing, Signal Processing, Sensor Fusion, Embedded Systems
 * Deep Learning Framework
   * Tensorflow, Caffe, Torch
 * Design & Presentation
@@ -58,7 +58,7 @@ SKILLS
 SERVICE & LEADERSHIP
 ======
 * Vice President of the Volunteer Service Department at Tongji University, Oct.2010 - Jun.2012  
-* Leader of the Tongji Education Aid Activity (Raised over 50,000CNY to subsidize 204 pupils), Sep.2011 - Nov.2011                                                                                                                                        
+* Leader of the Tongji Education Aid Activity (Raised over 50,000CNY to subsidize 204 pupils), Sep.2011 - Nov.2011                                                                                                              
 * Volunteer Coordinator of the 14th FINA World Championships Shanghai 2011 Organizing Committee, Jul.2011                                                                                            
 
 
