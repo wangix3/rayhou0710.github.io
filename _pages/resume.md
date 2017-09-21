@@ -12,10 +12,10 @@ redirect_from:
 EDUCATION
 ======
 * Ph.D. Candidate, Civil Engineering (Intelligent Systems Track), 2015 - Present
-  * University of University, Ann Arbor, MI
+  * University of Michigan, Ann Arbor, MI
   <!-- * Advisor: Prof. Jerome P. Lynch -->
 * M.S.E, Computer Science & Engineering, 2016 - Present
-  * University of University, Ann Arbor, MI
+  * University of Michigan, Ann Arbor, MI
   * GPA: 4.0/4.0
 * M.S.E, Civil Engineering (Intelligent Systems Track), 2014 - 2016
   * University of Michigan, Ann Arbor, MI
