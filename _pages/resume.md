@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 EDUCATION
-======
+------
 * Ph.D. Candidate, Civil Engineering (Intelligent Systems Track), 2015 - Present
   * University of Michigan, Ann Arbor, MI
   <!-- * Advisor: Prof. Jerome P. Lynch -->
