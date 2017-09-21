@@ -22,8 +22,8 @@ I currently intern at [Toyota Research Institute (TRI)](http://www.tri.global/),
 
 ## Goals for the Near Future
 
-* Seeking for an internship opportunity related to software engineering or data analysis (machine learning) for Summer 2018.
-* Obtain my Ph.D. degree in two years and find an industry job related to tech product development that is not just fancy but can truly influence people's daily life. 
+* Seeking for an internship opportunity related to software engineering or data science (machine learning) for Summer 2018.
+* Obtain my Ph.D. degree in two years and find an industry job related to tech product (hardware or software) development that is not just fancy but can truly influence people's daily life. 
 
 ## Lifetime Goals
 
