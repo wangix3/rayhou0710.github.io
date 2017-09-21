@@ -53,14 +53,7 @@ SKILLS
   * Tensorflow, Caffe, Torch
 * Design & Presentation
   * Adobe Creative Suite (Photoshop, Illustrator), Microsoft Office Suite
-  
-
-SERVICE & LEADERSHIP
-------
-* Vice President of the Volunteer Service Department at Tongji University, Oct.2010 - Jun.2012  
-* Leader of the Tongji Education Aid Activity (Raised over 50,000CNY to subsidize 204 pupils), Sep.2011 - Nov.2011                                                                                                              
-* Volunteer Coordinator of the 14th FINA World Championships Shanghai 2011 Organizing Committee, Jul.2011                                                                                            
-
+                                                                                     
 
 SELECTED COURSEWORK
 ------
@@ -87,3 +80,10 @@ HONORS & AWARDS
 * CanforWooden Structure Scholarship (Sponsored by Canfor Corporation), Tongji University 2013
 * First Prize in the 2013 Shanghai College Student Computer Application Competition 2013
 * Intertek Scholarship (2/520, Sponsored by Intertek Group PLC), Tongji University 2012
+
+
+SERVICE & LEADERSHIP
+------
+* Vice President of the Volunteer Service Department at Tongji University, Oct.2010 - Jun.2012  
+* Leader of the Tongji Education Aid Activity (Raised over 50,000CNY to subsidize 204 pupils), Sep.2011 - Nov.2011                           
+* Volunteer Coordinator of the 14th FINA World Championships Shanghai 2011 Organizing Committee, Jul.2011    
