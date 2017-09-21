@@ -15,15 +15,12 @@ Education
   * University of Michigan, Ann Arbor, MI
   <!-- * Advisor: Prof. Jerome P. Lynch -->
 * M.S.E, Computer Science & Engineering, 2016 - Present
-  * University of Michigan, Ann Arbor, MI
-  * GPA: 4.0/4.0
+  * University of Michigan, Ann Arbor, MI (GPA: 4.0/4.0)
 * M.S.E, Civil Engineering (Intelligent Systems Track), 2014 - 2016
-  * University of Michigan, Ann Arbor, MI
-  * GPA: 4.0/4.0
+  * University of Michigan, Ann Arbor, MI (GPA: 4.0/4.0)
 * B.S., Civil Engineering, 2010 - 2014
-  * Tongji University, Shanghai, China
-  * GPA: 91/100
-
+  * Tongji University, Shanghai, China (GPA: 91/100)
+  
 
 Employment Experience
 ------
