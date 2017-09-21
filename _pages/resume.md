@@ -26,7 +26,7 @@ EDUCATION
 
 
 EMPLOYMENT EXPERIENCE
-======
+------
 * Graduate Student Research Assistant, Jan.2015 - Present
   * Laboratory for Intelligent Systems and Technologies, University of Michigan, Ann Arbor, MI
   * Supervisor: Prof. Jerome P. Lynch
@@ -44,7 +44,7 @@ EMPLOYMENT EXPERIENCE
 
 
 SKILLS
-======
+------
 * Programming
   * Python, C++, MATLAB, C, Java, Javascript, SQL, NoSQL(MongoDB, Cassandra), Linux
 * Data Analysis
@@ -56,14 +56,14 @@ SKILLS
   
 
 SERVICE & LEADERSHIP
-======
+------
 * Vice President of the Volunteer Service Department at Tongji University, Oct.2010 - Jun.2012  
 * Leader of the Tongji Education Aid Activity (Raised over 50,000CNY to subsidize 204 pupils), Sep.2011 - Nov.2011                                                                                                              
 * Volunteer Coordinator of the 14th FINA World Championships Shanghai 2011 Organizing Committee, Jul.2011                                                                                            
 
 
 SELECTED COURSEWORK
-======
+------
 * EECS 586: Algorithms
 * EECS 583: Advanced Compiler
 * EECS 560: Linear System Theory
@@ -78,7 +78,7 @@ SELECTED COURSEWORK
 
 
 HONORS & AWARDS
-======
+------
 * Rackham Conference Travel Grant, University of Michigan 2017
 * William Colon Lemon Scholarship, University of Michigan 2016
 * Graduate Student Support Fellowship, University of Michigan 2016
