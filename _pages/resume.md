@@ -28,7 +28,7 @@ EDUCATION
 EMPLOYMENT EXPERIENCE
 ======
 * Graduate Student Research Assistant, Jan.2015 - Present
-  * Laboratory for Intelligent Systems and Technologies at the University of Michigan, Ann Arbor, MI
+  * Laboratory for Intelligent Systems and Technologies, University of Michigan, Ann Arbor, MI
   * Supervisor: Prof. Jerome P. Lynch
 
 * Material Informatics Intern, Sep.2017 - Dec.2017
