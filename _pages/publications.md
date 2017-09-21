@@ -29,7 +29,7 @@ S. Jeong, <u>R. Hou</u>, J. P. Lynch, H. Sohn and K. H. Law, "A distributed clou
 
 S. Jeong, <u>R. Hou</u>, J. P. Lynch, H. Sohn and K. H. Law, "Cloud-based cyber infrastructure for bridge monitoring", Proceedings of the 14th International Symposium on Structural Engineering (ISSE-14) Beijing, China, Oct.12-15, 2016.
 
-S. Jeong, Y. Zhang, <u>R. Hou</u>, J. P. Lynch, H. Sohn and K. H. Law, "A Cloud based Information Repository for Bridge Monitoring Applications", Proceedings of the SPIE Smart Structures/NDE Conference. Las Vegas, NV, USA, March 20-24, 2016. DOI 10.1117/12.2219064
+S. Jeong, Y. Zhang, <u>R. Hou</u>, J. P. Lynch, H. Sohn and K. H. Law, "A Cloud based Information Repository for Bridge Monitoring Applications", Proceedings of the SPIE Smart Structures/NDE Conference. Las Vegas, NV, USA, March 20-24, 2016.
 
 <u>R. Hou .</u>, Y. Zhang, S. O’Connor, Y. Hong, and J. P. Lynch, "Monitoring and Identification of Vehicle-Bridge Interaction using Mobile Truck-based Wireless Sensors." In Proceedings of 11th International Workshop on Advanced Smart Materials and Smart Structures Technology, pp. 1-2. 2015.
 
