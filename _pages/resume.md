@@ -28,9 +28,9 @@ Employment Experience
   * Laboratory for Intelligent Systems and Technologies, University of Michigan, Ann Arbor, MI
   * Supervisor: Prof. Jerome P. Lynch
 
-  <!-- * Material Informatics Intern, Sep.2017 - Dec.2017
+* Material Informatics Intern, Sep.2017 - Dec.2017
   * Toyota Research Institute, Ann Arbor, MI
-  * Supervisor: Dr. Debasish Banerjee & Dr. Chen Ling --> 
+  * Supervisor: Dr. Debasish Banerjee & Dr. Chen Ling
   
 * Building Information Modeling Intern, Feb.2014 - Jun.2014
   * Shanghai Construction Group, Shanghai, China
